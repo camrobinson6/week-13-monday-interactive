@@ -1,0 +1,7 @@
+Pros:  It reduces code duplication and improves test maintenance.
+       Code becomes less and optimized because of the reusable page methods.
+       Efficient and Scalable, Low Redundancy, Programmer Friendly, Low maintenance, Functional Encapsulation, Object Repo.
+
+
+Cons: High time and effort: Initial effort investment in development of Automation framework is High.
+      Skilled Labor, Not a generic model
